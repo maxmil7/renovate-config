@@ -1,0 +1,11 @@
+{
+    "description": "Pin dependency versions for <code>dependencies</code>",
+    "packageRules": [
+        {
+        "depTypeList": [
+            "dependencies"
+        ],
+        "rangeStrategy": "pin"
+        }
+    ]  
+}
